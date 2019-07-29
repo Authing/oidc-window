@@ -3,6 +3,6 @@
 ## 运行
 
 ``` shell
-$ npm install http-server
+$ npm install http-server -g
 $ http-server -p 8082
 ```
